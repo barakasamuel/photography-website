@@ -1,0 +1,22 @@
+.header {
+    justify-content: center; 
+    text-align: center; 
+    font-style: italic; 
+}
+.body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    border: 1px solid burlywood; 
+    width: 500px; 
+    background-color: bisque; 
+    border-radius: 7px; 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    flex-wrap: wrap; 
+}
+.section {
+    display: flex; 
+    justify-content: center; 
+    text-align: center; 
+    margin-top: 50px;
+}
