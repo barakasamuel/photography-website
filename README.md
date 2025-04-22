@@ -10,7 +10,7 @@ Barry Photography is a portfolio-style website showcasing the work of a talented
 ##  Live Demo
 
 You can run the website locally by simply opening `index.html` in any modern web browser.
-
+https://barakasamuel.github.io/photography-website/
 ##  Built With
 
 - HTML5
